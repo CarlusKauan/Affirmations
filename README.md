@@ -1,4 +1,4 @@
-# Affirmations 
+# Frases da NBA 
 ### App com RecycleView
 aplicativo com uma lista de rolagem !
 
